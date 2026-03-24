@@ -1,0 +1,8 @@
+{
+  "name": "tradingagents",
+  "version": "1.0.0",
+  "description": "Multi-agent trading analysis system: parallel analysts, investment debate, risk assessment, and portfolio management powered by Claude Code agents",
+  "author": {
+    "name": "TradingAgents"
+  }
+}
